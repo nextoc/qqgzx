@@ -9,3 +9,4 @@
 php7.0~7.3
 Mysql5.6
 进行安装：访问http://你域名/install
+完整源码：https://wwbxg.lanzouq.com/i4oYL3ouytri
